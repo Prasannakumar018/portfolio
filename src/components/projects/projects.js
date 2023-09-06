@@ -13,7 +13,7 @@ export default function Projects() {
        <div className='projectList'>
         <ProjectItem name="Hand Sign Recognnition" image={hand}/>
         <ProjectItem name="Cake-Shop Website" image={cake}/>
-        <ProjectItem name="Healthcare-ChatBot Website" image={health}/>
+        <ProjectItem name="Healthcare-ChatBot " image={health}/>
         <ProjectItem name="Portfolio Website" image={portfolio}/>
 
        </div>
